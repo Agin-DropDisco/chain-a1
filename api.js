@@ -1,6 +1,6 @@
 const Web3 = require('web3');
 const fs = require('fs');
-const web3 = new Web3('https://api.fuzz.fi');
+const web3 = new Web3('https://api.harmony.one');
 
 
 async function getNFTs() {
